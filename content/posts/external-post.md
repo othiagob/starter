@@ -1,7 +1,7 @@
 +++
-authors = ["Lone Coder"]
+authors = ["Programador Solitário"]
 date = "2023-07-06"
-title = "External Page: Hugo Coder Wiki"
+title = "Página Externa: Wiki Hugo Coder"
 slug = "hugo-coder-wiki"
 tags = [
     "hugo"

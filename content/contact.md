@@ -1,6 +1,6 @@
 +++
-title = "Contact"
+title = "Contato"
 slug = "contact"
 +++
 
-Follow me, @johndoe.
+Me siga em @joaoninguem.

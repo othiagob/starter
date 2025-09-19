@@ -24,9 +24,9 @@ unsafe = true
 [params]
 author = "Thiago Borghardt"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
-description = "John Doe's personal website"
-keywords = "blog,developer,personal"
-info = ["Full Stack DevOps", "Magician"]
+description = "Sítio pessoal de Thiago Borghardt"
+keywords = "blog,desenvolvedor,pessoal"
+info = ["Pai, marido e programador"]
 avatarURL = "images/avatar.jpg"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
@@ -179,55 +179,23 @@ url = "https://myhugosite.com/index.xml"
 rel = "alternate"
 type = "application/rss+xml"
 
-[languages.en]
-languageName = ":uk:"
-
-[[languages.en.menu.main]]
-name = "About"
-weight = 1
-url = "about/"
-
-[[languages.en.menu.main]]
-name = "Blog"
-weight = 2
-url = "posts/"
-
-[[languages.en.menu.main]]
-name = "Projects"
-weight = 3
-url = "projects/"
-
-[[languages.en.menu.main]]
-name = "Contact me"
-weight = 5
-url = "contact/"
-
-[languages.pt-br]
-languageName = ":brazil:"
-title = "Thiago Borghardt"
-
-[languages.pt-br.params]
-author = "Thiago Borghardt"
-info = "Pai, marido e programador"
-description = "Sítio pessoal de João Ninguém"
-keywords = "blog,desenvolvedor,pessoal"
-
-[[languages.pt-br.menu.main]]
+# Configuração do menu principal
+[[menu.main]]
 name = "Sobre"
 weight = 1
 url = "about/"
 
-[[languages.pt-br.menu.main]]
+[[menu.main]]
 name = "Blog"
 weight = 2
 url = "posts/"
 
-[[languages.pt-br.menu.main]]
+[[menu.main]]
 name = "Projetos"
 weight = 3
 url = "projects/"
 
-[[languages.pt-br.menu.main]]
+[[menu.main]]
 name = "Contato"
 weight = 5
 url = "contact/"

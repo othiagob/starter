@@ -1,6 +1,6 @@
 +++
-authors = ["Lone Coder"]
-title = "Placeholder Text"
+authors = ["Programador Solitário"]
+title = "Texto de Exemplo"
 date = "2023-07-05"
 description = "Lorem Ipsum Dolor Si Amet"
 tags = [
