@@ -22,12 +22,12 @@ noClasses = false
 unsafe = true
 
 [params]
-author = "Thiago Borghardt"
+author = "othiago"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Documentando toda minha trajetoria profissional"
-keywords = "blog,desenvolvedor,pessoal"
-info = ["Pai, marido e programador"]
-avatarURL = "images/avatar.jpg"
+keywords = "blog,desenvolvedor,pessoal"Pai, marido e programador
+info = ["Tenha brio!"]
+#avatarURL = "images/avatar.jpg"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
 since = 2025
