@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>sintaxe on Thiago Borghardt</title>
-    <link>http://localhost:1313/categoria/sintaxe/</link>
-    <description>Recent content in sintaxe on Thiago Borghardt</description>
+    <title>sintaxe on othiagob</title>
+    <link>http://localhost:1313/starter/categoria/sintaxe/</link>
+    <description>Recent content in sintaxe on othiagob</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/categoria/sintaxe/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/starter/categoria/sintaxe/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

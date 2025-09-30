@@ -6,7 +6,7 @@ defaultContentLanguage = "pt-br"
 enableEmoji = true
 
 [pagination]
-pagerSize = 6
+pagerSize = 10
 
 [services]
 [services.disqus]

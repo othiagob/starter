@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Teste on Thiago Borghardt</title>
-    <link>http://localhost:1313/tags/teste/</link>
-    <description>Recent content in Teste on Thiago Borghardt</description>
+    <title>Teste on othiagob</title>
+    <link>http://localhost:1313/starter/tags/teste/</link>
+    <description>Recent content in Teste on othiagob</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Thu, 18 Sep 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/teste/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/starter/tags/teste/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Meu primeiro post</title>
-      <link>http://localhost:1313/posts/minha-primeira-postagem/</link>
+      <link>http://localhost:1313/starter/posts/minha-primeira-postagem/</link>
       <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/minha-primeira-postagem/</guid>
+      <guid>http://localhost:1313/starter/posts/minha-primeira-postagem/</guid>
       <description>&lt;p&gt;Aqui começa o conteúdo do post.&lt;br&gt;&#xA;Você pode usar &lt;strong&gt;Markdown&lt;/strong&gt; normalmente: títulos, listas, blocos de código, etc.&lt;/p&gt;</description>
     </item>
   </channel>
